@@ -1,4 +1,4 @@
-# artillery-calculator-extended
+# mtc-artillery-calculator-extended
 
 Extended artillery calculator for Multicrew Tank Combat (MTC) on Roblox.
 Based on the original calculator by Astrid (grand-hawk).
@@ -55,6 +55,6 @@ npm run preview
 ## Credits & License
 
 - Original project: https://github.com/grand-hawk/artillery-calculator by Astrid.
-- Extended modifications: https://github.com/DJDeDPon by DJDeDPon.
+- Extended modifications: https://github.com/DJDeDPon/mtc-artillery-calculator-extended by DJDeDPon.
 - Thanks to Google Gemini and Anthropic Claude for assistance with development and ballistics mathematics.
 - License: MIT

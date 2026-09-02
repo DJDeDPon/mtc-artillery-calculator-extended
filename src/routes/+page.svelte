@@ -94,7 +94,7 @@
     </a>
 
     <a
-      href="https://github.com/DJDeDPon/artillery-calculator-extended"
+      href="https://github.com/DJDeDPon/mtc-artillery-calculator-extended"
       target="_blank"
       rel="noopener noreferrer"
       class="flex items-center gap-1.5 text-xs text-gray-400 hover:text-white transition-colors bg-[#141418]/80 hover:bg-[#141418] border border-white/10 rounded-md px-2.5 py-1 backdrop-blur-sm shadow"
