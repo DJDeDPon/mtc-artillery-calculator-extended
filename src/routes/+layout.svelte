@@ -6,8 +6,7 @@
 </script>
 
 <svelte:head>
-	<title>Artillery Calculator</title>
-	<link rel="icon" href="/favicon.png" />
+	<title>MTC Artillery Calculator</title>
 
 	<meta
 		name="description"
